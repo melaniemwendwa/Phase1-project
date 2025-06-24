@@ -1,0 +1,139 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "It Ends With Us",
+      "author": "Colleen Hoover",
+      "genre": "Romance",
+      "publicationYear": 2016,
+      "summary": "A passionate story of love, heartbreak, and the ultimate strength of a woman who must make a difficult choice for her future.",
+      "image":"data:image/jpeg;base64,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"
+    },
+    {
+      "id": "2",
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "genre": "Thriller",
+      "publicationYear": 2018,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589338661i/45045543.jpg",
+      "summary": "A struggling writer takes a job ghostwriting for an injured author, only to uncover dark secrets in her manuscript."
+    },
+    {
+      "id": "3",
+      "title": "Ugly Love",
+      "author": "Colleen Hoover",
+      "genre": "Romance",
+      "publicationYear": 2014,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406085521i/17787000.jpg",
+      "summary": "A love story about two people who agree to a no-strings-attached arrangement, only to find their agreement complicated by unexpected feelings."
+    },
+    {
+      "id": "4",
+      "title": "Reminders of Him",
+      "author": "Colleen Hoover",
+      "genre": "Romance",
+      "publicationYear": 2022,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628178144i/58462719.jpg",
+      "summary": "After serving five years in prison, a young woman returns to her hometown hoping to reunite with her daughter, only to face an uphill battle."
+    },
+    {
+      "id": "5",
+      "title": "Confess",
+      "author": "Colleen Hoover",
+      "genre": "Romance",
+      "publicationYear": 2015,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429037466i/22756070.jpg",
+      "summary": "A captivating story of an artist who finds love, complicated by the secrets each character holds."
+    },
+    {
+      "id": "6",
+      "title": "Regretting You",
+      "author": "Colleen Hoover",
+      "genre": "Young Adult",
+      "publicationYear": 2019,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559868783i/44621132.jpg",
+      "summary": "A mother and daughter navigate grief and new beginnings after a tragedy exposes family secrets."
+    },
+    {
+      "id": "7",
+      "title": "Maybe Someday",
+      "author": "Colleen Hoover",
+      "genre": "Romance",
+      "publicationYear": 2014,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380926578i/17788417.jpg",
+      "summary": "A heartwarming story about a girl who finds love and music in unexpected places after a difficult breakup."
+    },
+    {
+      "id": "8",
+      "title": "November 9",
+      "author": "Colleen Hoover",
+      "genre": "Romance",
+      "publicationYear": 2015,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435422894i/24430491.jpg",
+      "summary": "A unique love story where a boy and a girl meet once a year on the same day, navigating life's changes and their evolving relationship."
+    },
+    {
+      "id": "9",
+      "title": "All Your Perfects",
+      "author": "Colleen Hoover",
+      "genre": "Romance",
+      "publicationYear": 2018,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512403714i/37628811.jpg",
+      "summary": "A powerful novel exploring the complexities of a marriage and the challenges a couple faces when their love is tested."
+    },
+    {
+      "id": "10",
+      "title": "Heart Bones",
+      "author": "Colleen Hoover",
+      "genre": "Young Adult",
+      "publicationYear": 2020,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591143899i/50005701.jpg",
+      "summary": "After a devastating loss, a young woman finds solace and unexpected love during a summer away from home."
+    },
+    {
+      "id": "11",
+      "title": "Layla",
+      "author": "Colleen Hoover",
+      "genre": "Paranormal Romance",
+      "publicationYear": 2020,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597148560i/53419992.jpg",
+      "summary": "A supernatural romance that delves into love, grief, and the lines between life and death."
+    },
+    {
+      "id": "12",
+      "title": "Too Late",
+      "author": "Colleen Hoover",
+      "genre": "Dark Romance",
+      "publicationYear": 2016,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458296767i/28163539.jpg",
+      "summary": "A chilling and intense tale of love, obsession, and the dark side of human nature."
+    },
+    {
+      "id": "13",
+      "title": "Hopeless",
+      "author": "Colleen Hoover",
+      "genre": "Young Adult",
+      "publicationYear": 2012,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336423985i/15789647.jpg",
+      "summary": "A forbidden love story filled with secrets, lies, and the courage to uncover the truth."
+    },
+    {
+      "id": "14",
+      "title": "Losing Hope",
+      "author": "Colleen Hoover",
+      "genre": "Young Adult",
+      "publicationYear": 2013,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368913963i/17691657.jpg",
+      "summary": "The companion novel to 'Hopeless,' told from Dean Holder's perspective, offering new insights into their tumultuous relationship."
+    },
+    {
+      "id": "15",
+      "title": "Maybe Not",
+      "author": "Colleen Hoover",
+      "genre": "Romance",
+      "publicationYear": 2014,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406622839i/22756073.jpg",
+      "summary": "A novella in the 'Maybe Someday' series, exploring the complex, friends-with-benefits relationship between Warren and Bridgette."
+    }
+  ]
+}
