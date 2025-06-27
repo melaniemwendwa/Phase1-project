@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Colleen Hoover Books</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Colleen Hoover Books</h1>
+    <div class="controls">
+      <input type="text" id="searchInput" placeholder="Search by title or author...">
+      <select id="genreFilter">
+        <option value="">All Genres</option>
+        <option value="Romance">Romance</option>
+        <option value="Thriller">Thriller</option>
+        <option value="Young Adult">Young Adult</option>
+        <option value="Paranormal Romance">Paranormal Romance</option>
+        <option value="Dark Romance">Dark Romance</option>
+      </select>
+
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="book-list" class="grid-container">
+      </div>
+    <div id="book-detail" class="book-detail-sidebar hidden">
+      <button id="closeDetailBtn" class="close-btn">X</button>
+    </div>
+  </main>
+
+  <script src="index.js"></script>
+</body>
+</html>
