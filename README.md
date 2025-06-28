@@ -1,4 +1,4 @@
-# Phase1-project
+# Phase1-project by Melanie Thuranira
 
 # 📚 Colleen Hoover Books (Single Page Application)
 
@@ -13,7 +13,7 @@ This is a simple, interactive single-page web application built with **HTML**, *
 The project meets the following guidelines:
 
 -  Uses **HTML/CSS/JS** .
--  Fetches data from a **JSON server (`db.json`)** using **asynchronous JavaScript**.
+-  Fetches data from a **JSON server (`db.json`)** .
 -  Runs entirely on a **single HTML page** (no reloads or redirects).
 -  Uses **at least 3 distinct event listeners**.
 -  Implements **array iteration** using `.map()`, `.filter()`, and `.forEach()`.
@@ -43,7 +43,7 @@ The sidebar shows:
 - Book list layout adjusts responsively for smaller screens.
 
 
-### How to run this project
+### How to run this project (project setup)
 - clone the repository
 - install json server if not already installed using this: npm install -g json-server
 - start the json server using : json-server --watch db.json
