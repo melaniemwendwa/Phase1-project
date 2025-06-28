@@ -7,15 +7,15 @@ const closeDetailBtn = document.getElementById("closeDetailBtn");
 
 let allBooks = []; 
 
-// Event Listener 1: Load all books on page load
+// Event Listener 1: Loading all books
 document.addEventListener("DOMContentLoaded", () => {
     fetchBooks();
 });
 
-// Event Listener 2: Search functionality (Input event)
+// Event Listener 2: Search functionality 
 searchInput.addEventListener("input", filterAndDisplayBooks);
 
-// Event Listener 3: Genre filter (Change event)
+// Event Listener 3: Genre filter 
 genreFilter.addEventListener("change", filterAndDisplayBooks);
 
 
