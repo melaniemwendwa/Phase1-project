@@ -35,8 +35,9 @@ function fetchBooks() {
                 title: book.title,
                 author: book.author,
                 genre: book.genre, 
+                publicationYear: book.publicationYear,
+                year: book.publicationYear,
                 summary: book.summary, 
-                description: book.summary, 
                 image: book.image
             }));
             displayBooks(allBooks);
@@ -101,7 +102,7 @@ function showBookDetail(book) {
         <h2 class="detail-title">${book.title}</h2>
         <p class="detail-author"><strong>Author:</strong> ${book.author}</p>
         <p class="detail-genre"><strong>Genre:</strong> ${book.genre}</p>
-        <p class="detail-year"><strong>Year:</strong> ${book.year || 'N/A'}</p> <p class="detail-summary">${book.description}</p>
+        <p class="detail-year"><strong>Year:</strong> ${book.year || 'N/A'}</p> <p class="detail-summary">${book.summary || 'No summary available.'}</p>
     `;
     bookDetailDiv.querySelector(".close-btn").addEventListener("click", closeBookDetail);
 }
