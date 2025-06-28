@@ -12,12 +12,12 @@ This is a simple, interactive single-page web application built with **HTML**, *
 
 The project meets the following guidelines:
 
-- ✅ Uses **HTML/CSS/JS** .
-- ✅ Fetches data from a **JSON server (`db.json`)** using **asynchronous JavaScript**.
-- ✅ Runs entirely on a **single HTML page** (no reloads or redirects).
-- ✅ Uses **at least 3 distinct event listeners**.
-- ✅ Implements **array iteration** using `.map()`, `.filter()`, and `.forEach()`.
-- ✅ Follows **DRY** coding principles using clean, reusable functions.
+-  Uses **HTML/CSS/JS** .
+-  Fetches data from a **JSON server (`db.json`)** using **asynchronous JavaScript**.
+-  Runs entirely on a **single HTML page** (no reloads or redirects).
+-  Uses **at least 3 distinct event listeners**.
+-  Implements **array iteration** using `.map()`, `.filter()`, and `.forEach()`.
+-  Follows **DRY** coding principles using clean, reusable functions.
 
 ---
 
